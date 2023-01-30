@@ -146,7 +146,11 @@ function showSlides(n) {
         {% endif %}
       </div>
     </header>
-<!-- Slideshow container -->
+
+   <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <!-- Slideshow container -->
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
@@ -175,9 +179,6 @@ function showSlides(n) {
   <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
-   <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
           {{ content }}
         </section>
 
