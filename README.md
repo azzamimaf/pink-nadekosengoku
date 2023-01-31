@@ -1,6 +1,9 @@
 
 # Pink Nadeko Sengoku
-Pink color theme configuration for windows 10/11
+
+> Pink color theme configuration for windows 10/11
+
+## Screenshot Tema
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
@@ -37,8 +40,6 @@ Pink color theme configuration for windows 10/11
   <span class="dot" onclick="currentSlide(3)"></span>
   <span class="dot" onclick="currentSlide(4)"></span>
 </div>
-
-## Tema berskema warna pink untuk Windows 10/11
 
 ## Paket yang digunakan dalam tema ini :
 1. [Rainmeter](https://www.rainmeter.net/) dan skin
