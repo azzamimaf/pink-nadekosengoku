@@ -1,7 +1,9 @@
 
 # Pink Nadeko Sengoku
 
-> Pink color theme configuration for windows 10/11
+>
+> ## Pink color theme configuration for windows 10/11
+>
 
 ## Screenshot Tema
 <!-- Slideshow container -->
@@ -9,22 +11,18 @@
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 4</div>
     <img src="ss1.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 4</div>
     <img src="ss2.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 4</div>
     <img src="ss3.png" style="width:100%">
   </div>
   
   <div class="mySlides fade">
-    <div class="numbertext">4 / 4</div>
     <img src="ss4.png" style="width:100%">
   </div>
 
@@ -42,16 +40,19 @@
 </div>
 
 ## Paket yang digunakan dalam tema ini :
-1. [Rainmeter](https://www.rainmeter.net/) dan skin
-    - [Cleartext](https://github.com/redsaph/cleartext) dari [redsaph](https://github.com/redsaph/)
-    - [Monstercat Visualizer](https://github.com/marcopixel/monstercat-visualizer) dari [marcopixel](https://github.com/marcopixel)
-    - [Polybar](https://github.com/khanhas/Polybar) dari [khanhas](https://github.com/khanhas)
-2.  [Tokyo Night Theme](https://www.deviantart.com/niivu/art/Tokyo-Night-for-Windows-911660687) dari [niivu](https://www.deviantart.com/niivu/)
-3.  [Numix Cursor](https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782) dari [alexgal23](https://www.deviantart.com/alexgal23/)
-4.  [Papirus Icons](https://www.deviantart.com/niivu/art/Papirus-Icons-786691314) dari [niivu](https://www.deviantart.com/niivu/)
-5.  [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) dari [M. Hoefs](https://mhoefs.eu/)
-6.  [7TSP GUI 2019 Edition](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) dari [devillnside](https://www.deviantart.com/devillnside)
-7.  Wallpaper [Nadeko Sengoku](https://nisioisin.fandom.com/wiki/Nadeko_Sengoku) dari [Opening Theme Song Bakemonogatari Renai Circulation](https://bakemonogatari.fandom.com/wiki/Renai_Circulation)
+
+>
+> 1. [Rainmeter](https://www.rainmeter.net/) dan skin
+>    - [Cleartext](https://github.com/redsaph/cleartext) dari [redsaph](https://github.com/redsaph/)
+>    - [Monstercat Visualizer](https://github.com/marcopixel/monstercat-visualizer) dari [marcopixel](https://github.com/marcopixel)
+>    - [Polybar](https://github.com/khanhas/Polybar) dari [khanhas](https://github.com/khanhas)
+> 2.  [Tokyo Night Theme](https://www.deviantart.com/niivu/art/Tokyo-Night-for-Windows-911660687) dari [niivu](https://www.deviantart.com/niivu/)<br>
+> 3.  [Numix Cursor](https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782) dari [alexgal23](https://www.deviantart.com/alexgal23/)<br>
+> 4.  [Papirus Icons](https://www.deviantart.com/niivu/art/Papirus-Icons-786691314) dari [niivu](https://www.deviantart.com/niivu/)<br>
+> 5.  [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) dari [M. Hoefs](https://mhoefs.eu/)<br>
+> 6.  [7TSP GUI 2019 Edition](https://www.deviantart.com/devillnside/art/7TSP-GUI-2019-Edition-804769422) dari [devillnside](https://www.deviantart.com/devillnside)
+> 7.  Wallpaper [Nadeko Sengoku](https://nisioisin.fandom.com/wiki/Nadeko_Sengoku) dari [Opening Theme Song Bakemonogatari Renai Circulation](https://bakemonogatari.fandom.com/wiki/Renai_Circulation)<br>
+>
 
 ## Cara Pasang Tema
  Ada beberapa bagian :
